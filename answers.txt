@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows for version control, which lets you store many different backups and different proposed
+changes to make file/code management easier. When collaborating, it also makes the process of different
+people contributing to the codebase easier, since it lets you smoothly merge your chances with others'.
