@@ -15,3 +15,11 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging and rebasing both accomplish the same final "merged" branch, 
 but merging preserves the two branches that were merged together, while 
 rebasing writes the changes on one branch on top of the other.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to both get better at processing data and to understand how
+data could go wrong - e.g. have formatting issues, outliers, inaccurate
+entries, corruption, etc. - and know what to look for and what to do about it.
+This also has very general applications with most things that require
+relatively clean data, such as ML or language processing.
