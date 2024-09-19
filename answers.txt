@@ -9,3 +9,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: An example of a field where data science would be useful is medicine - data science can be used to
 process and analyze medical records - for the purposes of both cleaning faulty data and analyzing it for
 future utility (e.g. having data to train diagnosis models or test hypotheses for treatment).
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging and rebasing both accomplish the same final "merged" branch, 
+but merging preserves the two branches that were merged together, while 
+rebasing writes the changes on one branch on top of the other.
